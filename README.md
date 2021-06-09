@@ -1,3 +1,9 @@
+# Deck building application in progress for Marvel Champions: The Card Game
+
+This projects serves as a visual way to build a deck and track information of heroes and villains for Marvel Champions: The Card Game games.
+
+* The information presented on this site about Marvel Champions: The Card Game, both literal and graphical, is copyrighted by Fantasy Flight Games. This project is not produced, endorsed, supported, or affiliated with Fantasy Flight Games.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
