@@ -1,4 +1,4 @@
-# Deck building application in progress for Marvel Champions: The Card Game
+# Deck building and Hero/Villain tracking application in progress for Marvel Champions: The Card Game
 
 This projects serves as a visual way to build a deck and track information of heroes and villains for Marvel Champions: The Card Game games.
 
